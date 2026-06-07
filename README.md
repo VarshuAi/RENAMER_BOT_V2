@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Telegram File Renamer Bot
+  name: RENAMER_BOT_V2 version: 1.0 type: Repository author: VarshuAi description: >   Telegram File Renamer Bot primary_tech: Python
 primary_tech: Python
 ```
 
